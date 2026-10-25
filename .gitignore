@@ -1,0 +1,9 @@
+# Godot 4+ specific ignores
+.godot/
+/android/
+
+# 上传 / 打包辅助文件
+_upload/
+dist/
+*.tmp
+.tmp*
